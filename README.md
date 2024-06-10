@@ -20,7 +20,10 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; gap: 10;">
-
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" height="100">
+  
+  
 </div>
 
 
