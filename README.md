@@ -20,10 +20,17 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; gap: 10;">
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" height="100">
-  
-  
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="70" height="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="70" height="70">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="70" height="70">
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="70" height="70">
+<img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="70" height="70">
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="70" height="70">
+<img src="https://www.svgrepo.com/show/452045/js.svg" width="70" height="70">
+<img src="https://www.svgrepo.com/show/448271/azure-devops.svg" width="100" height="100">
+<img src="https://www.svgrepo.com/show/452210/git.svg" width="70" height="70">
+<img src="https://camo.githubusercontent.com/7756f4d96fbae10fad3ffb32fe76b870f037f5d3c77050786ff2d70b7c25d26c/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e616c722e737667" width="70" height="70">
+<img src="https://www.svgrepo.com/show/373845/mongo.svg" width="70" height="70">
 </div>
 
 
