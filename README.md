@@ -8,10 +8,13 @@
 ## Socials:
 <div style="display: flex; gap: 10;">
   <a href="https://www.linkedin.com/in/gozgirfaruk/">
-    <img src="https://cdn.pixabay.com/photo/2017/11/10/05/05/linkedin-2935407_1280.png" alt="Logo" width="100" height="100">
+    <img src="https://cdn.pixabay.com/photo/2017/02/24/16/50/linkedin-2095609_1280.png" alt="Logo" width="100" height="100">
   </a> <span></span>
   <a href="https://www.instagram.com/gozgirfaruk/">
-    <img src="https://cdn.pixabay.com/photo/2017/11/10/05/04/instagram-2935404_1280.png" alt="Logo" width="100" height="100">
+    <img src="https://cdn.pixabay.com/photo/2016/05/15/01/08/icon-1392950_1280.png" alt="Logo" width="100" height="100">
+  </a>
+    <a href="#">
+    <img src="https://cdn.pixabay.com/photo/2016/05/08/14/58/icon-1379228_1280.png" alt="Logo" width="100" height="100">
   </a>
 </div>
 
