@@ -13,9 +13,7 @@
   <a href="https://www.instagram.com/gozgirfaruk/">
     <img src="https://cdn.pixabay.com/photo/2016/05/15/01/08/icon-1392950_1280.png" alt="Logo" width="100" height="100">
   </a>
-    <a href="#">
-    <img src="https://cdn.pixabay.com/photo/2016/05/08/14/58/icon-1379228_1280.png" alt="Logo" width="100" height="100">
-  </a>
+
 </div>
 
 
