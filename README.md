@@ -21,11 +21,23 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; gap: 10;">
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50">
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="50" height="50">
-<img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="50" height="50">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50">
+  </a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50">
+</a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2022">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="50" height="50">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="50" height="50">
+</a>
+
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/452045/js.svg" width="50" height="50">
