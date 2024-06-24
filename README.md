@@ -58,9 +58,7 @@
 <a href="https://www.postman.com/">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50">
 </a>
-  <a href="https://www.dapperlabs.com/">
-    <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" width="50" height="50">
-  </a>
+
 </div>
 
 
