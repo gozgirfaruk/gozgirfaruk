@@ -61,7 +61,14 @@
 <a href="https://www.nuget.org/packages/Dapper">
   <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" width="50" height="50">
 </a>
+<a href="https://www.docker.com/">
+ <img src="https://github.com/user-attachments/assets/56d058bf-3539-4515-9626-96edd4b5080e" width="50" height="50">
+</a>
+<a href="https://jwt.io/">
+ <img src="https://github.com/user-attachments/assets/2f1b2277-4b29-4803-9bc5-34da03575068" width="50" height="50">
+</a>
 </div>
+
 
 
 
