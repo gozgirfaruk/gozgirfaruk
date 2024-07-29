@@ -22,51 +22,51 @@
 # 💻 Tech Stack:
 <div style="display: flex; gap: 10;">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="60" height="60">
   </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="60" height="60">
 </a>
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2022">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50">
+<img width="60" height="60" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="50" height="50">
+ <img width="60" height="60" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="60" height="60">
 </a>
 <a href="https://www.mongodb.com/">
-   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="50" height="50">
+   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="60" height="60">
 </a>
  <a href="https://html.com/">
-   <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="50" height="50">
+   <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="60" height="60">
  </a>
 
 <a href="https://www.nuget.org/packages/Dapper">
-  <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" width="50" height="50">
+  <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" width="60" height="60">
 </a>
 <a href="https://www.docker.com/">
- <img src="https://github.com/user-attachments/assets/56d058bf-3539-4515-9626-96edd4b5080e" width="50" height="50">
+ <img src="https://github.com/user-attachments/assets/56d058bf-3539-4515-9626-96edd4b5080e" width="60" height="60">
 </a>
 <a href="https://jwt.io/">
- <img src="https://github.com/user-attachments/assets/2f1b2277-4b29-4803-9bc5-34da03575068" width="50" height="50">
+ <img src="https://github.com/user-attachments/assets/2f1b2277-4b29-4803-9bc5-34da03575068" width="60" height="60">
 </a>
 <a href="https://redis.io/">
- <img src="https://github.com/user-attachments/assets/5c4c40d2-a155-4dbf-89b8-bb93ce821e74" width="50" height="50">
+ <img src="https://github.com/user-attachments/assets/5c4c40d2-a155-4dbf-89b8-bb93ce821e74" width="60" height="60">
 </a>
 <a href="https://azure.microsoft.com/">
-  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" width="60" height="60">
 </a>
 <a href="https://github.com/SignalR/SignalR">
-  <img src="https://camo.githubusercontent.com/7756f4d96fbae10fad3ffb32fe76b870f037f5d3c77050786ff2d70b7c25d26c/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e616c722e737667" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/7756f4d96fbae10fad3ffb32fe76b870f037f5d3c77050786ff2d70b7c25d26c/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e616c722e737667" width="60" height="60">
 </a>
 <a href="https://git-scm.com/">
-  <img src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60">
 </a>
 <a href="https://www.postman.com/">
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60">
 </a>
 
 </div>
