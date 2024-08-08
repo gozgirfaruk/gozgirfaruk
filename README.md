@@ -50,7 +50,7 @@
  <img src="https://github.com/user-attachments/assets/2f1b2277-4b29-4803-9bc5-34da03575068" width="60" height="60">
 </a>
 <a href="https://www.rabbitmq.com/">
- <img src="https://github.com/user-attachments/assets/7ddbe750-588d-4461-ba9c-f526f89cecfe" width="60" height="60">
+ <img src="https://github.com/user-attachments/assets/ec4148f6-089b-43a5-a5ac-90a97b570017" width="60" height="60">
 </a>
 <a href="https://redis.io/">
  <img src="https://github.com/user-attachments/assets/5c4c40d2-a155-4dbf-89b8-bb93ce821e74" width="60" height="60">
