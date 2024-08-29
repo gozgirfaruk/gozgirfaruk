@@ -1,4 +1,4 @@
- ### Hi there 👋 Ömer Faruk GÖZEGİR
+   ### Hi there 👋 Ömer Faruk GÖZEGİR
 
 ### Jr .Net Developer
 🌱 I’m currently learning .Net Developer.
@@ -59,7 +59,7 @@
   <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" width="60" height="60">
 </a>
 <a href="https://github.com/SignalR/SignalR">
-  <img src="https://camo.githubusercontent.com/7756f4d96fbae10fad3ffb32fe76b870f037f5d3c77050786ff2d70b7c25d26c/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e616c722e737667" width="60" height="60">
+  <img src="https://github.com/user-attachments/assets/73bc3e29-695e-4f31-a755-ec6f7d3bb6e1" width="60" height="60">
 </a>
 <a href="https://git-scm.com/">
   <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60">
