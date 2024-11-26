@@ -1,4 +1,5 @@
-   ### Hi there 👋 Ömer Faruk GÖZEGİR
+  ### Hi there 👋 Ömer Faruk GÖZEGİR
+
 
 ### Jr .Net Developer
 🌱 I’m currently learning .Net Developer.
@@ -39,6 +40,9 @@
 </a>
  <a href="https://html.com/">
    <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="60" height="60">
+ </a>
+  <a href="https://jquery.com/">
+   <img src="https://github.com/user-attachments/assets/94c4bf6a-4cf6-4603-88fd-a3b89110a3b7" width="60" height="60">
  </a>
 <a href="https://www.nuget.org/packages/Dapper">
   <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" width="60" height="60">
