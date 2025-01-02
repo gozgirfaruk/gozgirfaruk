@@ -53,7 +53,7 @@
 <a href="https://jwt.io/">
  <img src="https://github.com/user-attachments/assets/2f1b2277-4b29-4803-9bc5-34da03575068" width="60" height="60">
 </a>
-<a href="https://www.rabbitmq.com/">
+<a href="https://www.elastic.co/elasticsearch">
  <img src="https://github.com/user-attachments/assets/eee48118-79ea-4900-9406-e1671baab257" width="60" height="60">
 </a>
 <a href="https://www.rabbitmq.com/">
