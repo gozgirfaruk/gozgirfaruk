@@ -54,6 +54,9 @@
  <img src="https://github.com/user-attachments/assets/2f1b2277-4b29-4803-9bc5-34da03575068" width="60" height="60">
 </a>
 <a href="https://www.rabbitmq.com/">
+ <img src="https://github.com/user-attachments/assets/eee48118-79ea-4900-9406-e1671baab257" width="60" height="60">
+</a>
+<a href="https://www.rabbitmq.com/">
  <img src="https://github.com/user-attachments/assets/632a187e-0909-4dcd-94cc-9ffe237d8f75" width="60" height="60">
 </a>
 <a href="https://redis.io/">
