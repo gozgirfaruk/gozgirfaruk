@@ -2,7 +2,7 @@
 
 
 ### Jr .Net Developer
-🌱 I’m currently learning .Net Developer.
+🌱 I’m currently learning .Net Development
 <br>
 📫 How to reach me: gozgirfaruk@gmail.com
 
