@@ -87,6 +87,10 @@
 <a href="https://redis.io/">
  <img src="https://github.com/user-attachments/assets/5c4c40d2-a155-4dbf-89b8-bb93ce821e74" width="40" height="40">
 </a>
+    <a href="https://dbeaver.io/">
+ <img src="https://github.com/user-attachments/assets/eda6c4c5-f04b-4099-abd5-a17f37c557d9" width="40" height="40">
+</a>
+
  </div>
 
  <div style="display:block; gap:10;">
