@@ -35,7 +35,7 @@
 
 <div align="left">
 
-  <div style="display: block; gap: 10;">
+ <div style="display: block; gap: 10;">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40" height="40">
   </a>
@@ -105,8 +105,16 @@
 <a href="https://www.postman.com/">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40">
 </a>
+   <a href="https://vite.dev/">
+  <img src="https://github.com/user-attachments/assets/b29d779c-6568-49f0-ab00-eaf4b0390dcc" width="40" height="40">
+</a>
  </div>
-
+ <div>
+  <img src="https://github.com/user-attachments/assets/f2ed5ee0-d68f-47ed-a203-20022569da01" width="40" height="40">
+    <img src="https://github.com/user-attachments/assets/82197bf4-38d2-45ad-9b09-a794dfa78e9b" width="40" height="40">
+   <img src="https://github.com/user-attachments/assets/fafc77ba-121d-439b-9fff-69e40a672238" width="40" height="40">
+ </div>
+ 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gozgirfaruk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gozgirfaruk&theme=tokyonight&hide_border=true)
